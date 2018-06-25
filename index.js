@@ -28,5 +28,5 @@ function iLoveTheBeatles(number){
   do {
     newarray[i] = love;
     number++;
-  } while (number > 15)
+  } while (number < 15)
 }
