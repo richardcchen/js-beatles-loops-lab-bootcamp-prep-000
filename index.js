@@ -27,7 +27,7 @@ function iLoveTheBeatles(number){
   let i = 0;
   do {
     newarray[i] = love;
-    console.log(newarray[i]);
+    //console.log(newarray[i]);
     number++;
     i++;
   } while (number < 15)
