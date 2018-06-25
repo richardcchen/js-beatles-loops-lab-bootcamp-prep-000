@@ -12,7 +12,7 @@ function johnLennonFacts(array){
   var excite = "!!!";
   var newarray = [];
   let i = 0;
-  while ([i < array.length]){
+  while (i < array.length){
     console.log(array[i]);
     newarray[i] = array[i] + excite;
     console.log(newarray[i]);
