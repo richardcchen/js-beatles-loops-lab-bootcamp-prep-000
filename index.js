@@ -27,6 +27,6 @@ function iLoveTheBeatles(number){
   let i = 0;
   do {
     newarray[i] = love;
-    i++;
+    number++;
   } while (number > 15)
 }
