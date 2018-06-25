@@ -16,6 +16,7 @@ function johnLennonFacts(array){
     console.log(array[i]);
     newarray[i] = array[i] + excite;
     console.log(newarray[i]);
+    i++;
   }
   return newarray;
 }
